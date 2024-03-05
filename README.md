@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sambaraks652
-- 👀 I’m interested in web development and python.
-- 🌱 I’m currently learning ..python and web development.
-- 💞️ I’m looking to collaborate on ..learning and building javascript projects.
+- 👀 I’m interested in web development, python and dart with flutter.
+- 🌱 I’m currently learning ..python, web development and dart with flutter.
+- 💞️ I’m looking someone to collaborate with..learning and building javascript projects.
 - 📫 How to reach me ..sambaraks652@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..I enjoy coding alot and learning new things.
