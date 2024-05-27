@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sambaraks652
-- 👀 I’m interested in web development, python and dart with flutter.
+- 👀 I’m interested in web development, python (Django) and dart with flutter.
 - 🌱 I’m currently learning ..python, web development and dart with flutter.
 - 💞️ I’m looking for someone to collaborate with..learning and building javascript projects.
 - 📫 How to reach me ..sambaraks652@gmail.com.
