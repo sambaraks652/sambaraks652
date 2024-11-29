@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Samuel Baraka</h1>
 <h3 align="center">A passionate Web and Smart Contract developer from Kenya</h3>
-<img src=”https://search.brave.com/images?q=animated%20coding%20gif” align=”right” width=”400” >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambaraks652&label=Profile%20views&color=0e75b6&style=flat" alt="sambaraks652" /> </p>
 
