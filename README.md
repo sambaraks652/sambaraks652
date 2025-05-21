@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Baraka Andrew
 ============================================================================================================================================
 
-FullStack developer
+Web2 & Web3 developer
 -------------------
 
 I am a FullStack developer who loves Javascript and its frameworks.
 
 * 🌍  I'm based in Nakuru, Kenya
 * ✉️  You can contact me at [sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)
-* 🧠  I'm learning Expressjs, Nodejs, Tailwindcss and MongoDB
+* 🧠  I'm learning Reactjs, Etherjs, Nodejs, and MongoDB
 * 🤝  I'm open to collaborating on Intresting projects
 * ⚡  Talk is cheap. Show me the code
 
