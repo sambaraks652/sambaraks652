@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web2 & Web3 developer
 -------------------
 
-I am a FullStack developer who loves Javascript and its frameworks.
-
 * 🌍  I'm based in Nakuru, Kenya
 * ✉️  You can contact me at [sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)
 * 🧠  I'm learning Reactjs, Etherjs, Nodejs, and MongoDB
