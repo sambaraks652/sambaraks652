@@ -11,7 +11,7 @@
 
 - 🌍  I'm based in Nakuru, Kenya  
 - ✉️  Contact me at: [sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)  
-- 🧠  Currently learning: ReactJS, NodeJS, MongoDB  
+- 🧠  Currently learning: ReactJS, NodeJS, MongoDB & Tailwind Css 
 - 🤝  Open to collaborating on interesting, impactful projects  
 - ⚡  Talk is cheap. Show me the code.
 
