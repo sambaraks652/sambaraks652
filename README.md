@@ -74,13 +74,3 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-<p align="left">
-  <a href="https://github.com/sambaraks652/Farmers-Buddy" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sambaraks652&repo=Farmers-Buddy&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/sambaraks652/Asset-Tracking-System" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sambaraks652&repo=Asset-Tracking-System&theme=dark&hide_border=true" />
-  </a>
-</p>
