@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, Fellow Engineer. Precision Meets Passion Here.</h1>
+<h1 align="center">Welcome, Fellow Engineers. Precision Meets Passion Here.</h1>
 <h3 align="center">🚀 A passionate software developer from Kenya</h3>
 
 <p align="center">
