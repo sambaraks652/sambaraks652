@@ -61,8 +61,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.vercel.app/?user=sambaraks652&theme=dark&hide_border=true
-" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sambaraks652&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 <p align="center">
