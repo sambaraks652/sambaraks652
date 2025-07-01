@@ -61,8 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sambaraks652&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sambaraks652&theme=tokyonight&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=F7F7F7&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 <p align="center">
