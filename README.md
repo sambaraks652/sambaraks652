@@ -13,7 +13,7 @@
 - ✉️  Contact me at: [sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)  
 - 🧠  Currently learning: ReactJS, NodeJS, MongoDB & Tailwind Css 
 - 🤝  Open to collaborating on interesting, impactful projects  
-- ⚡  Talk is cheap. Show me the code.
+- ⚡  I once fixed a “broken” script by deleting a semicolon. Felt like a surgeon with a scalpel.
 
 ---
 
