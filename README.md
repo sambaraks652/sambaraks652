@@ -2,6 +2,11 @@
 <h3 align="center">🚀 A passionate software developer from Kenya</h3>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+
+<p align="center">
   <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Coding" />
 </p>
 
@@ -14,6 +19,13 @@
 - 🧠  Currently learning: ReactJS, NodeJS, MongoDB & Tailwind Css 
 - 🤝  Open to collaborating on interesting, impactful projects  
 - ⚡  I once fixed a “broken” script by deleting a semicolon. Felt like a surgeon with a scalpel.
+- ---
+
+### 🔍 Developer Philosophy
+
+> “Code isn’t just instructions—it’s architecture for ideas.”  
+> I believe in building solutions that are **efficient**, **scalable**, and **transparent**. I script like a minimalist, debug like a detective, and customize like an artist.
+
 
 ---
 
@@ -77,4 +89,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terminal-powered-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made_with-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
 
