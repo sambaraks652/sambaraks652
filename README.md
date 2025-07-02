@@ -1,9 +1,11 @@
+
+<h1 align="center">Welcome, Fellow Engineers. Precision Meets Passion Here.</h1>
+<h3 align="center">🚀 A passionate software developer from Kenya</h3>
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </p>
- ---
-<h1 align="center">Welcome, Fellow Engineers. Precision Meets Passion Here.</h1>
-<h3 align="center">🚀 A passionate software developer from Kenya</h3>
+ 
 
 
 <p align="center">
