@@ -2,7 +2,8 @@
 <h3 align="center">🚀 A passionate software developer from Kenya</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+
 </p>
 
 
