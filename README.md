@@ -18,7 +18,7 @@
 
 - 🌍  I'm based in Nakuru, Kenya  
 - ✉️  Contact me at: [sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)  
-- 🧠  Currently learning: ReactJS, NodeJS, MongoDB & Tailwind Css 
+- 🧠  Currently learning: ReactJS, Django, MongoDB & Tailwind Css 
 - 🤝  Open to collaborating on interesting, impactful projects  
 - ⚡  I once fixed a “broken” script by deleting a semicolon. Felt like a surgeon with a scalpel.
 - ---
