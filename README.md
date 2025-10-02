@@ -1,6 +1,13 @@
-# 👋 Hi, I’m Samuel Andrew  
+<!-- Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=70a5fd&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Samuel+Andrew;Software+Developer+%7C+Blockchain+Enthusiast;React+%26+Django+Lover;Building+Scalable+Web+Solutions" alt="Typing Animation" />
+</p>
 
-<h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>  
+<!-- Minimal Elegant Name Header -->
+<h1 align="center">
+  👋 Hi, I’m <span style="color:#70a5fd;">Samuel Andrew</span>
+</h1>
+<h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
@@ -21,7 +28,8 @@
 ## 💡 Developer Philosophy  
 
 > *“Code isn’t just instructions—it’s architecture for ideas.”*  
-I craft solutions that are **efficient**, **scalable**, and **transparent**. I approach problems like a detective, script with minimalism, and design with the precision of an architect.  
+I craft solutions that are **efficient**, **scalable**, and **transparent**.  
+I approach problems like a detective, script with minimalism, and design with the precision of an architect.  
 
 ---
 
@@ -81,4 +89,4 @@ I craft solutions that are **efficient**, **scalable**, and **transparent**. I a
 <p align="center">
   <img src="https://img.shields.io/badge/Terminal-powered-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Made_with-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" />
-</p>  
+</p>
