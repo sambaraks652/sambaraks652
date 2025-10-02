@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Samuel Andrew  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="800" alt="Coding Animation" />
+</p>
+
+
 <h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>  
 
 <p align="center">
