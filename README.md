@@ -3,18 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Samuel+Andrew;Software+Developer+%7C+Blockchain+Enthusiast;React+%26+Django+Lover;Building+Scalable+Web+Solutions" alt="Typing Animation" />
 </p>
 
-<!-- 👨‍💻 Senior Engineer Vibe Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Senior Developer Coding Animation" />
-</p>
-
-
 
 
 <!-- Gradient Waving Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Samuel%20Andrew&fontAlign=50&fontAlignY=40&color=gradient" alt="Samuel Andrew Banner"/>
 </p>
+
+!-- 👨‍💻 Senior Engineer Vibe Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Senior Developer Coding Animation" />
+</p>
+
 
 <!-- Minimal Elegant Name Header -->
 <h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>
