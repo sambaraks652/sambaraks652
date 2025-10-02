@@ -8,15 +8,7 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" width="400"/>
 </p>
 
-<!-- 🚀 Cool Developer Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding Animation" />
-</p>
 
-<!-- 🌌 Matrix-Style Code Rain Animation -->
-<p align="center">
-  <img src="https://i.imgur.com/WbMNxEX.gif" width="500" alt="Matrix Code Rain" />
-</p>
 
 
 <!-- Gradient Waving Banner -->
