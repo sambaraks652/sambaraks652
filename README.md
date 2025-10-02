@@ -1,4 +1,12 @@
-# 👋 Hi, I’m Samuel Andrew  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0891b2&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Samuel+Andrew;Software+Developer+%7C+Blockchain+Enthusiast;Passionate+about+React,+Django+and+FinTech" alt="Typing Animation" />
+</p>
+
+<h1 align="center">
+  👋 Hi, I’m <span style="color:#0891b2;">Samuel Andrew</span>
+</h1>
+<h3 align="center">🚀 Software Developer | sam.dev652 | Tech Enthusiast</h3>
+ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400" alt="Coding Animation" />
