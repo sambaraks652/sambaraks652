@@ -4,9 +4,6 @@
 </p>
 
 <!-- Minimal Elegant Name Header -->
-<h1 align="center">
-  👋 Hi, I’m <span style="color:#70a5fd;">Samuel Andrew</span>
-</h1>
 <h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>
 
 <p align="center">
