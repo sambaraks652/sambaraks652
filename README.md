@@ -1,99 +1,44 @@
-<!-- Typing Animation Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Samuel+Andrew;Software+Developer+%7C+Blockchain+Enthusiast;React+%26+Django+Lover;Building+Scalable+Web+Solutions" alt="Typing Animation" />
-</p>
+<h1 align="center">Welcome, Fellow Engineer. Precision Meets Passion Here.</h1>
+<h3 align="center">Software Developer | Committed to Continuous Learning & Growth</h3>
 
-<!-- Gradient Waving Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Samuel%20Andrew&fontAlign=50&fontAlignY=40&color=gradient" alt="Samuel Andrew Banner"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samdev652&label=Profile%20views&color=0e75b6&style=flat" alt="samdev652" /> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Senior Developer Coding Animation" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdev652" alt="samdev652" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/the_samdev652" target="blank"><img src="https://img.shields.io/twitter/follow/the_samdev652?logo=twitter&style=for-the-badge" alt="the_samdev652" /></a> </p>
 
-<!-- Minimal Elegant Name Header -->
-<h3 align="center">🚀 Software Developer | React & Django Enthusiast | Builder of Scalable Web Solutions</h3>
+- 🔭 I’m currently working on **my personal projects**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sambaraks652&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-</p>  
+- 🌱 I’m currently learning **NextJs, Django and Typescript**
 
----
+- 👯 I’m looking to collaborate on **any interesting projects**
 
-## 🧑‍💻 About Me  
+- 💬 Ask me about **React, Nextjs,Python and Solidity**
 
-- 🌍 Based in **Nakuru, Kenya**  
-- ✉️ Reach me at **[sambaraks652@gmail.com](mailto:sambaraks652@gmail.com)**  
-- 🧠 Currently sharpening skills in **ReactJS, Django, Next.js & Tailwind CSS**  
-- 🤝 Open to collaborating on impactful and innovative projects  
-- ⚡ Fun fact: Fixed a "broken" script by deleting a single semicolon — felt like surgery with a scalpel.  
+- 📫 How to reach me **sambaraks652@gmail.com**
 
----
+- ⚡ Fun fact **I don’t need a mood ring—my keyboard glows with mine.**
 
-## 💡 Developer Philosophy  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-> *“Code isn’t just instructions—it’s architecture for ideas.”*  
-I craft solutions that are **efficient**, **scalable**, and **transparent**.  
-I approach problems like a detective, script with minimalism, and design with the precision of an architect.  
-
----
-
-## 🛠 Tech Stack & Tools  
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" /></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" /></a>
-<a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" /></a>
-</p>  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://discord.com/users/1205152089425186863" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
-  <a href="https://github.com/sambaraks652" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-  <a href="http://www.instagram.com/smart_contract_wizard" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-  <a href="https://www.linkedin.com/in/samuel-andrew" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://x.com/solidity_wizard" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-  <a href="https://www.youtube.com/@andreascoder" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" /></a>
-</p>  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sambaraks652&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>  
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sambaraks652&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sambaraks652&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambaraks652&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>  
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Terminal-powered-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made_with-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" />
+<a href="https://dev.to/unpluggedalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="unpluggedalpha" height="30" width="40" /></a>
+<a href="https://twitter.com/the_samdev652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_samdev652" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24487987/sam-dev652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24487987/sam-dev652" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/barakaandrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/barakaandrew" height="30" width="40" /></a>
+<a href="https://instagram.com/smart_contract_wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smart_contract_wizard" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/simplesam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/simplesam/" height="30" width="40" /></a>
+<a href="https://discord.gg/baraka_652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baraka_652" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdev652&show_icons=true&locale=en&layout=compact" alt="samdev652" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&locale=en" alt="samdev652" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdev652&" alt="samdev652" /></p>
